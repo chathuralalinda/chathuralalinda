@@ -1,6 +1,6 @@
 ### Hi there, I'm Chathura Lalinda Ranasinghe 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=chathuralalinda&color=blueviolet)
 
 ## I'm a Undergraduate Student, Developer 💻💻💻
 
