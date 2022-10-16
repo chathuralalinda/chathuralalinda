@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=chathuralalinda&color=blueviolet)
 
-## I'm a Undergraduate Student, Developer 💻💻💻
+## I'm a Undergraduate Student 💻💻💻
 
 - 📘 I’m currently Learning at Uva Wellassa University of Sri Lanka
 - 💻 I’m currently learning Computer Science & Technology
