@@ -7,7 +7,6 @@
 - 📘 I’m currently Learning at Uva Wellassa University of Sri Lanka
 - 💻 I’m currently learning Computer Science & Technology
 - 😍 I’m looking to Collaborate with other developers
-- 🎯 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies
 
 
