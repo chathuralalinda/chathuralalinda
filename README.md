@@ -2,14 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=chathuralalinda&color=blueviolet)
 
-## I'm a Fresh graduate Student 💻💻💻
-
-- 📘 I’m currently Learning at Uva Wellassa University of Sri Lanka
-- 💻 I’m currently learning Computer Science & Technology
-- 😍 I’m looking to Collaborate with other developers
-- ⚡ Fun fact: I love to watch movies
-
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
